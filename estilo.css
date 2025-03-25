@@ -1,7 +1,5 @@
 header {
-    background-color: blue;
+    background: blue;
     text-align: center;
     color: white;
-    border-top: 100px;
-    border-bottom: 100px;
 }
