@@ -5,3 +5,12 @@ header h1 {
     text-align: center;
     color: white;
 }
+@when media(max-width: 600px) {
+    body {
+        background-color: red;
+    }
+} @else {
+    body {
+        background-color: white;
+    }
+}
